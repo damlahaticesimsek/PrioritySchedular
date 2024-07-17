@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Masaüstü\AlgorithmTask\PrioritySchedular\PrioritySchedular\bin\Debug\net7.0\PrioritySchedular.exe
+C:\Users\HP\OneDrive\Masaüstü\AlgorithmTask\PrioritySchedular\PrioritySchedular\bin\Debug\net7.0\PrioritySchedular.deps.json
+C:\Users\HP\OneDrive\Masaüstü\AlgorithmTask\PrioritySchedular\PrioritySchedular\bin\Debug\net7.0\PrioritySchedular.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\AlgorithmTask\PrioritySchedular\PrioritySchedular\bin\Debug\net7.0\PrioritySchedular.dll
+C:\Users\HP\OneDrive\Masaüstü\AlgorithmTask\PrioritySchedular\PrioritySchedular\bin\Debug\net7.0\PrioritySchedular.pdb
+C:\Users\HP\OneDrive\Masaüstü\AlgorithmTask\PrioritySchedular\PrioritySchedular\obj\Debug\net7.0\PrioritySchedular.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\AlgorithmTask\PrioritySchedular\PrioritySchedular\obj\Debug\net7.0\PrioritySchedular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\AlgorithmTask\PrioritySchedular\PrioritySchedular\obj\Debug\net7.0\PrioritySchedular.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\AlgorithmTask\PrioritySchedular\PrioritySchedular\obj\Debug\net7.0\PrioritySchedular.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\AlgorithmTask\PrioritySchedular\PrioritySchedular\obj\Debug\net7.0\PrioritySchedular.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\AlgorithmTask\PrioritySchedular\PrioritySchedular\obj\Debug\net7.0\PrioritySchedular.dll
+C:\Users\HP\OneDrive\Masaüstü\AlgorithmTask\PrioritySchedular\PrioritySchedular\obj\Debug\net7.0\refint\PrioritySchedular.dll
+C:\Users\HP\OneDrive\Masaüstü\AlgorithmTask\PrioritySchedular\PrioritySchedular\obj\Debug\net7.0\PrioritySchedular.pdb
+C:\Users\HP\OneDrive\Masaüstü\AlgorithmTask\PrioritySchedular\PrioritySchedular\obj\Debug\net7.0\PrioritySchedular.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\AlgorithmTask\PrioritySchedular\PrioritySchedular\obj\Debug\net7.0\ref\PrioritySchedular.dll
